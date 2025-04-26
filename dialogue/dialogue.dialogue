@@ -1,0 +1,13 @@
+~ start
+Sleepy Cat: [[Hi|Hello|Howdy]], What do you want?
+- Me.
+	Echo: You.
+- An apple.
+	Echo: An apple I guess
+- Myself
+	Echo: You.
+- I.
+	Echo: You.
+- Nothing :(
+	Echo: Oh none thank you.
+=> END
